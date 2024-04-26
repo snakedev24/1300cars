@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "974438021196",
+    "project_id": "cars-5b6c2",
+    "storage_bucket": "cars-5b6c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974438021196:android:47ba2267b91dee2e8adce9",
+        "android_client_info": {
+          "package_name": "com.automotive.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974438021196-sslit7d9ken8ddmq91evb0046o04eke0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.automotive.provider",
+            "certificate_hash": "969793d65283264e7030b288bf45c8fdec4049d9"
+          }
+        },
+        {
+          "client_id": "974438021196-muddnv6p1r7d69vbj6ma1nruqff43p0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxiAO-dY73BhbpgHYhSArAvj4KHvInWjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974438021196-muddnv6p1r7d69vbj6ma1nruqff43p0o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974438021196-8uipf1nhvoa6b2mpbdtgq68fhdpg63sn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.automotive.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974438021196:android:94a637d30da06b928adce9",
+        "android_client_info": {
+          "package_name": "com.automotive1300.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974438021196-1mq41d6sf0pkf41nmpblmllekhb3nao8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.automotive1300.user",
+            "certificate_hash": "5e22ccd5582a1bbea9561660a325be381d3941cb"
+          }
+        },
+        {
+          "client_id": "974438021196-3tvnnctrgltmm25j3sdsnut3dvie8606.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.automotive1300.user",
+            "certificate_hash": "5b4e7d57ae03d6774a757a47405023ba7537f8ef"
+          }
+        },
+        {
+          "client_id": "974438021196-muddnv6p1r7d69vbj6ma1nruqff43p0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxiAO-dY73BhbpgHYhSArAvj4KHvInWjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974438021196-muddnv6p1r7d69vbj6ma1nruqff43p0o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974438021196-8uipf1nhvoa6b2mpbdtgq68fhdpg63sn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.automotive.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,86 @@
+class ConstantImage{
+  static const loginLogo = "assets/image/png/login_logo.png";
+  static const googleLogo = "assets/image/svg/google.svg";
+  static const facebookLogo = "assets/image/svg/facebook.svg";
+  static const loginBg = "assets/image/png/login_bg.png";
+  static const sosLogo = "assets/image/svg/sos.svg";
+  static const appLogo = "assets/image/svg/app.svg";
+  static const roadSideAssistance = "assets/image/png/roadside_assistance.png";
+  static const banner = "assets/image/png/banner.png";
+  static const home = "assets/image/png/home.png";
+  static const card_bg = "assets/image/png/card_bg.png";
+  static const backpng = "assets/image/png/back.png";
+  static const person_png = "assets/image/png/person_png.png";
+  static const homeSelected = "assets/image/png/home_selected.png";
+  static const booking = "assets/image/png/booking.png";
+  static const chat = "assets/image/png/chat.png";
+  static const close_png = "assets/image/png/tick_green.png";
+  static const profile = "assets/image/png/profile.png";
+  static const onboarding = "assets/image/png/onborading.png";
+  static const backChatImage = "assets/image/png/backChatImage.png";
+  static const onboardingTop = "assets/image/png/onboarding_desgin.png";
+  static const next = "assets/image/png/next.png";
+  static const appointment_bg = "assets/image/png/appointment_bg.png";
+  static const backImage = "assets/image/png/back_img.png";
+  static const profileBack = "assets/image/png/profileBack.png";
+  static const search = "assets/image/svg/search.svg";
+  static const back ="assets/image/svg/back.svg";
+  static const call ="assets/image/svg/call.svg";
+  static const location ="assets/image/svg/location.svg";
+  static const star = "assets/image/svg/star.svg";
+  static const calander = "assets/image/svg/calander.svg";
+  static const timer = "assets/image/svg/timer.svg";
+  static const basic = "assets/image/svg/basic.svg";
+  static const premium = "assets/image/svg/premium.svg";
+  static const supreme = "assets/image/svg/supreme.svg";
+  static const blue_tick = "assets/image/svg/blue_tick.svg";
+  static const yellow_tick = "assets/image/svg/yellow_tick.svg";
+  static const green_tick = "assets/image/svg/green_tick.svg";
+  static const update_profile = "assets/image/svg/profile_update.svg";
+  static const back_desgin = "assets/image/svg/backdesgin.svg";
+  static const profileImage = "assets/image/svg/profileimage.svg";
+  static const feedback_image = "assets/image/svg/feedback_image.svg";
+  static const star_feedback ="assets/image/svg/feeback_image.svg";
+  static const heart ="assets/image/svg/heart.svg";
+  static const close ="assets/image/svg/close.svg";
+  static const calander_dialog = "assets/image/svg/calander_dialog.svg";
+  static const chatsvg = "assets/image/svg/chat.svg";
+  static const person ="assets/image/svg/person.svg";
+  static const chatBackGround ="assets/image/svg/chatBackGround.svg";
+  static const msgSendIcon ="assets/image/svg/msgSendIcon.svg";
+  static const yellowBack ="assets/image/svg/yellowBack.svg";
+  static const editIconProfile ="assets/image/svg/editIconProfile.svg";
+  static const paymentMethod ="assets/image/svg/paymentMethod.svg";
+  static const myFavorite ="assets/image/svg/myFavorite.svg";
+  static const diadnosticTools ="assets/image/svg/diadnosticTools.svg";
+  static const serviceHistory ="assets/image/svg/serviceHistory.svg";
+  static const aboutProfile ="assets/image/svg/aboutProfile.svg";
+  static const termsService ="assets/image/svg/termsService.svg";
+  static const privacyPolicy ="assets/image/svg/privacyPolicy.svg";
+  static const logoutProfile ="assets/image/svg/logoutProfile.svg";
+  static const changePassword ="assets/image/svg/changePassword.svg";
+  static const reminderSetting ="assets/image/svg/reminderSetting.svg";
+  static const emergencyContacts ="assets/image/svg/emergencyContacts.svg";
+  static const deleteAccount ="assets/image/svg/deleteAccount.svg";
+  static const membershipIcon ="assets/image/svg/Membership_icon.svg";
+  static const smallHeart ="assets/image/svg/small_heart.svg";
+  static const clock = "assets/image/svg/clock.svg";
+  static const tick = "assets/image/svg/tick.svg";
+  static const blue_cross ="assets/image/png/blue_cross.png";
+  static const tag_premium = "assets/image/svg/tag_premium.svg";
+  static const tag_pro = "assets/image/svg/tag_pro.svg";
+  static const tag_vip = "assets/image/svg/tag_vip.svg";
+
+  static const tag_right_premium = "assets/image/svg/tag_right_premium.svg";
+  static const tag_right_vip ="assets/image/svg/tag_right_vip.svg";
+
+  // static const home ="assets/image/svg/home.svg";
+
+  static const aboutBackImg ="assets/image/svg/aboutBackImg.svg";
+
+  static const edit ="assets/image/svg/edit.svg";
+  static const errorImage="assets/image/png/errorImage.png";
+
+  static const close_icon ="assets/image/svg/close_icon.svg";
+  static const small_calander="assets/image/svg/small_calander.svg";
+}
